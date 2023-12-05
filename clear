@@ -1,0 +1,71 @@
+[33mcommit 1c5c622e44a5ae9259b55f3a005a466d35f7ce63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 14:40:37 2023 -0300
+
+    HTML e CSS para componente HOME
+
+[33mcommit 58f9cce04592237b38913b22b92e9300f3d450fa[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 14:29:51 2023 -0300
+
+    Rota para componente HOME
+
+[33mcommit d7c82a0917294557a3e147b41c13c73a903bf701[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 14:20:17 2023 -0300
+
+    Componente HOME criado
+
+[33mcommit 5e483b966b2e70af49cfc8143ed43a69f266d323[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 14:10:04 2023 -0300
+
+    HTML e CSS para componente NAV
+
+[33mcommit 36e1deb18ab9bee6f464591e6b23a6b506385cd8[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 13:26:01 2023 -0300
+
+    rota para componente NAV
+
+[33mcommit bcaecbb7fabf4dc0e206218c2a2fbefda4e23eee[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 13:19:11 2023 -0300
+
+    componente NAV criado
+
+[33mcommit 2c2e119c70e32187ca70e0ae7b878c328226bbd7[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 13:14:19 2023 -0300
+
+    imports utilizados no projeto
+
+[33mcommit b074d67498d446ef8b78bcb4dfd1e7d7f7aee879[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 12:47:53 2023 -0300
+
+    angular material adicionado ao projeto
+
+[33mcommit d1d480bd3c99a23e292128b78ae512db9e7d49c5[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 12:41:03 2023 -0300
+
+    inlineTemplate e style desabilitados
+
+[33mcommit ef533a7d5c2a0b1cedb2023a6e74067ac02bbbc4[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 12:34:42 2023 -0300
+
+    strict desabilitado
+
+[33mcommit 72a91144f9262d45c9ca29d1b2ee1233ad05be48[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 12:27:47 2023 -0300
+
+    Projeto iniciado
+
+[33mcommit 7e610c59f38e8bfb19451aecf05079044dcd046c[m
+Author: Cauã Rodrigues da Silva <caua.silva@arenago.com.br>
+Date:   Tue Dec 5 12:24:08 2023 -0300
+
+    initial commit
